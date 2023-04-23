@@ -6,7 +6,7 @@ if [ -z "$2" ]; then
     exit 1
 fi
 
-cat "$1" | tr 'A-Z' 'a-z' | tr -d [:punct:] |  tr -d [:digit:] | tr -sc 'a-z' '\12' | fgrep -vwf "$2" | uniq
+cat "$1" | tr 'A-Z' 'a-z' | tr -d [:punct:] |  tr -d [:digit:] | tr -sc 'a-z' '\12' | fgrep -vwf "$2" | sort | uniq
 
 
 # cat input.srt | tr 'A-Z' 'a-z' | tr -d [:punct:] |  tr -d [:digit:] > input_cleaned.srt 
