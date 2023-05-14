@@ -11,13 +11,13 @@ fi
 if [ "$3" == "de" ]; then
     # German
     cat "$1" | sed 's/<[^>]*>/ /g' | sed -r 's/^([A-ZÄÖÜ])/\L\1/g' | sed -r 's/([-.?!]\s+)([A-ZÄÖÜ])/\1\L\2/g' \
-    | sed -r 's/(\w)-(\w)/\1iiiii\2/g' | tr -d [:punct:] |  tr -d [:digit:] | tr -sc 'A-ZÄÖÜa-zäöüß' '\12' \
+    | tr -d [:digit:] | sed -r 's/(\w)-(\w)/\1iiiii\2/g' | tr -d [:punct:] | tr -sc 'A-ZÄÖÜa-zäöüß' '\12' \
     | sed -r 's/(\w)iiiii(\w)/\1-\2/g'| fgrep -vwf "$2" | sort | uniq
     exit 0
 fi
 
 # English
-cat "$1" | sed 's/<[^>]*>/ /g' | tr 'A-Z' 'a-z' | sed -r 's/(\w)-(\w)/\1iiiii\2/g' | tr -d [:punct:] |  tr -d [:digit:] \
+cat "$1" | sed 's/<[^>]*>/ /g' | tr 'A-Z' 'a-z' |  tr -d [:digit:] | sed -r 's/(\w)-(\w)/\1iiiii\2/g' | tr -d [:punct:] \
 | tr -sc 'a-z' '\12' | sed -r 's/(\w)iiiii(\w)/\1-\2/g' | fgrep -vxf "$2" | sort | uniq
 
 # cat "$1" | sed 's/<[^>]*>/ /g' # clean html tags
