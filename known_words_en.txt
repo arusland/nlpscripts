@@ -5,6 +5,7 @@ able
 abortion
 about
 above
+breed
 abroad
 absence
 absolute
@@ -245,6 +246,7 @@ bankrupt
 banner
 bar
 barbecue
+barf
 barista
 barks
 bars
@@ -334,6 +336,7 @@ blood
 bloody
 blossoming
 blow
+blow-dryer
 blowing
 blue
 board
@@ -370,8 +373,10 @@ boyhe
 boys
 brain
 brakes
+brand-new
 brandnew
 brandt
+brat
 brave
 break
 breaking
