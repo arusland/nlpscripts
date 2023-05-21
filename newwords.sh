@@ -17,8 +17,8 @@ if [ "$3" == "de" ]; then
 fi
 
 # English
-cat "$1" | sed 's/<[^>]*>/ /g' | tr 'A-Z' 'a-z' |  tr -d [:digit:] | sed -r 's/(\w)-(\w)/\1№№№\2/g' | tr -d [:punct:] \
-| tr -sc 'a-z№' '\12' | sed -r 's/(\w)№№№(\w)/\1-\2/g' | fgrep -vxf "$2" | sort | uniq
+cat "$1" | sed 's/<[^>]*>/ /g' | tr 'A-Z' 'a-z' | sed "s/[^a-z' \n-]//g" \
+| tr -sc "a-z-'" '\12' | fgrep -vxf "$2" | sort | uniq
 
 # cat "$1" | sed 's/<[^>]*>/ /g' # clean html tags
 # cat input.srt | tr 'A-Z' 'a-z' | tr -d [:punct:] |  tr -d [:digit:] # clean text from punct. signs and digits
