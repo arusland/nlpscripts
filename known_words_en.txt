@@ -531,6 +531,7 @@ century
 certain
 certainly
 cetera
+cetera
 chair
 chance
 chances
@@ -743,6 +744,7 @@ criticized
 crude
 cruelty
 crush
+crust
 cry
 crying
 cult
@@ -800,6 +802,7 @@ desire
 despite
 devastating
 device
+diarrhea
 dick
 did
 didnt
@@ -826,6 +829,7 @@ disgusting
 disgusts
 disorders
 disoriented
+dispute
 distance
 dive
 dived
@@ -836,6 +840,7 @@ does
 doesnt
 dog
 doing
+dolgans
 dollar
 dollars
 dolls
@@ -857,6 +862,7 @@ draft
 drag
 dragged
 dragging
+drama-queen
 drank
 draw
 drawer
@@ -891,6 +897,7 @@ during
 duties
 dying
 e-gg-s
+e-mail
 each
 ear
 earlier
@@ -907,6 +914,7 @@ easy
 eat
 eaten
 eating
+ebenezer
 edge
 editor
 educate
@@ -926,6 +934,7 @@ else
 em
 email
 embarrassing
+embolism
 emergency
 emma
 emotional
@@ -955,6 +964,10 @@ establish
 established
 establishes
 establishment
+et
+ethan
+ethans
+ethiopia-eritrea
 even
 evening
 eventually
