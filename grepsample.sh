@@ -13,6 +13,6 @@ file1=$1
 file2=$2
 
 while read -r line; do
-  sample=`grep -i "\b$line\b" $file2 | head -1 | sed 's/<[^>]*>/ /g' | sed 's/^ *//g'`
+  sample=`grep -iw "$line" $file2 | head -1 | sed 's/<[^>]*>/ /g' | sed 's/^ *//g'`
   echo -e "$line\t$sample"
 done < "$file1"
