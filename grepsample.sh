@@ -15,7 +15,11 @@ file2=$2
 while read -r line; do
   # remove new lines
   line=`echo $line | tr -d "\n\r"`
-  # get first matched sample
-  sample=`grep -iw "$line" $file2 | head -1 | sed 's/<[^>]*>/ /g' | sed 's/^ *//g'`
+  # get first matched sample (case sensitive)
+  sample=`grep -w "$line" $file2 | head -1 | sed 's/<[^>]*>/ /g' | sed 's/^ *//g'`
+  if [ -z "${sample}" ]; then
+    # get first matched sample (case insensitive)
+    sample=`grep -iw "$line" $file2 | head -1 | sed 's/<[^>]*>/ /g' | sed 's/^ *//g'`
+  fi
   echo -e "$line\t$sample"
 done < "$file1"
