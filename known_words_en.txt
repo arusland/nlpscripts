@@ -96,6 +96,7 @@ agent
 aggressive
 aggressively
 aghast
+aging
 ago
 agree
 agreed
@@ -251,6 +252,7 @@ asks
 asleep
 aspect
 ass
+ass-pincher
 assert
 asshole
 assholes
@@ -271,6 +273,7 @@ attacked
 attempt
 attend
 attention
+attire's
 attitude
 attract
 attracted
@@ -355,6 +358,7 @@ bathtub
 battery
 battle
 battles
+bauhaus
 be
 beach
 beans
@@ -365,6 +369,7 @@ beaten
 beating
 beatings
 beats
+beaujolais
 beautiful
 beautifully
 beauty
@@ -446,6 +451,7 @@ bitches
 bite
 biting
 bitten
+biz
 black
 blacklist
 blah
@@ -471,6 +477,7 @@ blues
 board
 boat
 bob
+bobbing
 body
 bogart
 bogarts
@@ -617,11 +624,13 @@ called
 calling
 calls
 calm
+calmate
 came
 camera
 camera's
 cameras
 camp
+campagne
 campbell
 campus
 can
@@ -632,9 +641,11 @@ candace
 candidate
 candy
 candy-tastin'
+cannon
 cannonball
 cannot
 cant
+cantonese
 canyons
 cap
 capability
@@ -646,6 +657,7 @@ captain
 captained
 captured
 car
+carajo
 carb
 card
 cards
@@ -713,6 +725,7 @@ character
 characters
 charlie
 charlies
+charm
 chase
 chased
 chat
@@ -733,6 +746,7 @@ chewed
 chicago
 chicken
 chickens
+chickenshit
 chico
 chief
 child
@@ -740,6 +754,7 @@ childhood
 children
 childrens
 childs
+chill
 china
 chip
 chocolate
@@ -774,6 +789,7 @@ class
 class-action
 classes
 classic
+classier
 classmates
 clay
 clayton
@@ -816,6 +832,7 @@ cobbler
 cobblers
 cocaine
 cock
+cockroach
 cockroaches
 cocks
 cocksucker
@@ -942,6 +959,7 @@ cooking
 cookware
 cool
 cooler
+cooper
 cooperate
 cop
 copper
@@ -956,6 +974,7 @@ corrupt
 cost
 costs
 costume
+cottage
 coughing
 coughs
 could
@@ -998,6 +1017,7 @@ cremated
 cries
 criminal
 criticized
+croque
 cross
 crossed
 crowd
@@ -1028,6 +1048,7 @@ dad's
 daddies
 daddy
 daddys
+dale
 damage
 damaged
 damn
@@ -1038,6 +1059,7 @@ danger
 dangerous
 dare
 dark
+darker
 darling
 date
 dated
@@ -1114,6 +1136,7 @@ didn't
 didnt
 die
 died
+diese
 difference
 different
 differently
@@ -1347,6 +1370,7 @@ establishes
 establishment
 estelle
 et
+eternity
 ethan
 ethans
 ethiopia
@@ -1380,6 +1404,7 @@ excitement
 exciting
 excludes
 excuse
+executive
 exercise
 exhausting
 exit
@@ -1445,6 +1470,7 @@ favor
 favorite
 fay
 fear
+fearless
 feed
 feel
 feeling
@@ -1453,11 +1479,14 @@ feels
 fees
 feet
 fell
+fella
 fellas
 fellow
 felt
 ferrari
+festivities
 few
+fiancée
 field
 fields
 fifth
@@ -1483,6 +1512,7 @@ finishing
 fire
 fired
 fireworks
+firing
 first
 firstname
 fish
@@ -1643,6 +1673,7 @@ ghosts
 giant
 gift
 gimme
+gin
 girl
 girl's
 girlfriend
@@ -1657,6 +1688,7 @@ glasses
 gloria
 glory
 gloves
+glycerin
 go
 god
 goddamn
@@ -1681,15 +1713,20 @@ gourmet
 government
 governor
 grab
+grabbed
+grabs
 gracias
 grade
+grand
 grandkids
 grandma
 grandmothers
+granted
 granville
 grass
 grateful
 gray
+grays
 great
 greatest
 greece
@@ -1717,6 +1754,7 @@ guests
 guidance
 guilty
 guitar
+gum
 gun
 guns
 gusto
@@ -1733,6 +1771,7 @@ haines
 hair
 half
 half-hour
+half-wit
 halfway
 hall
 halt
@@ -1745,6 +1784,7 @@ handshake
 handy
 hang
 hanging
+hangovers
 happen
 happened
 happening
@@ -1784,6 +1824,7 @@ hear
 heard
 hearing
 hears
+hearst
 heart
 hearts
 heat
@@ -1885,6 +1926,7 @@ houses
 how
 how'd
 how's
+howell
 however
 huge
 huh
@@ -1893,6 +1935,7 @@ humble
 humor
 hundred
 hundreds
+hung
 hungarian
 hungry
 hurry
@@ -1902,6 +1945,7 @@ hurts
 husband
 husbands
 hush
+hymie-hole
 i
 i'd
 i'll
