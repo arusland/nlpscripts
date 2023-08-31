@@ -999,6 +999,7 @@ ciao
 cigar
 cigarettes
 cigars
+cillit
 circle
 circles
 circumstance
@@ -1901,6 +1902,7 @@ expect
 expectations
 expected
 expecting
+expend
 expense
 expensive
 experience
@@ -1915,6 +1917,7 @@ explaining
 explanation
 explicitly
 explode
+explodes
 exploding
 exploration
 explosion
@@ -1928,6 +1931,7 @@ expressed
 expressing
 expressions
 expropriated
+extensive
 extent
 external
 extra
@@ -1952,6 +1956,7 @@ failing
 fails
 failure
 fair
+fairly
 fairy
 faith
 faithful
@@ -2076,6 +2081,8 @@ flapping
 flaps
 flash
 flat
+flatten
+flattened
 flesh
 flight
 flirt
@@ -2380,6 +2387,7 @@ guy's
 guys
 guys'
 h
+h-bomb
 h-on-ey
 ha
 habit
@@ -2613,6 +2621,8 @@ hungry
 hurry
 hurt
 hurt--
+hurting
+hurts
 hurts
 husband
 husband
@@ -2671,6 +2681,7 @@ implants
 importance
 important
 impossible
+impractical
 impress
 impressed
 impresses
@@ -2679,6 +2690,7 @@ impression
 impressive
 improve
 improvement
+improviser
 impulse
 impulses
 in
@@ -2762,6 +2774,7 @@ interested
 interesting
 interests
 interfere
+intermediary
 intermediate
 internal
 international
@@ -5631,4 +5644,3 @@ zacharys
 zero
 zhivago
 zurich
-cillit
