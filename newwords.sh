@@ -4,7 +4,7 @@
 
 if [ -z "$2" ]; then
     echo "Extract new words from raw text file and by stop words file"
-    echo 'newwords INPUT_FILE STOP_WORDS_FILE'
+    echo 'newwords INPUT_FILE STOP_WORDS_FILE [de]'
     exit 1
 fi
 
