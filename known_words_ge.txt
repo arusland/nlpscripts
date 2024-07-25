@@ -663,6 +663,11 @@ glaub
 glaube
 glauben
 gleich
+gleichzeitig
+Gletschereis
+Gletscherforscher
+Gletscheroberfläche
+Gletschers
 glück
 Glück
 glücklich
@@ -670,13 +675,16 @@ Gold
 goldenen
 Gott
 Grad
+grad
 Gras
 grau
 Graz
 Grazie
 Grenze
 groß
+große
 großen
+großer
 großteils
 Grund
 Gruppe
@@ -684,6 +692,10 @@ Gruppen
 Größe
 größer
 grün
+gründen
+gründet
+Gründung
+grünen
 gucken
 gut
 gute
@@ -692,6 +704,8 @@ Haar
 habe
 haben
 habt
+Hagg
+hahaha
 hallo
 Hallo
 Hals
@@ -700,6 +714,7 @@ halten
 Hand
 Handtuch
 Handtücher
+Handwerk
 hast
 hat
 hatte
@@ -712,6 +727,7 @@ hause
 Hause
 Haushalten
 Haut
+Heidelandschaft
 heiß
 heißen
 heißt
@@ -747,8 +763,10 @@ hundert
 Hut
 Hygiene
 Hände
+hängt
 hätte
 hättest
+häufiger
 Häuser
 Höchste
 höflich
