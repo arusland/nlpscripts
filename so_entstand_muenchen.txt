@@ -3,9 +3,8 @@ Kaufmann			Auch ein Kaufmann namens Burkhard Wadler und seine Frau Heilwig komme
 Kelten			Sie wird bewohnbar. Es sind die Kelten, die sich ab dem 3. Jahrhundert vor Christus als allererstes langfristig auf der Schotterebene ansiedeln. 
 kennt			Welche historischen Anekdoten kennt ihr denn über München? Schreibt es gerne unten in die Kommentare. 
 Kiesfläche			Dort bleiben sie aufgeschottert liegen. Es ist der Ursprung der Münchner Schotterebene. Eine 1.500 Quadratkilometer große Kiesfläche, auf der die Stadt heute steht. 
-Kindl			aber dieser Mönch hat sich im Laufe der Zeit verändert. Aus dem Mönch wurde das Münchner Kindl.
 kindlicher			Der wird spätestens ab dem 16. Jahrhundert immer kindlicher. Und ab den 1920er Jahren wandelt sich die Figur vom Jungen zum Mädchen.
-kmh			
+kmh			asdfasda
 Kochelsee			Diese Lage verdankt München natürlich seiner Vorgeschichte. Und in diesem Fall müssen wir sehr weit zurück, ans Ende der letzten Kaltzeit. Und hoch hinaus: auf den Jochberg zwischen Walchen- und Kochelsee.
 Kollegen			So wie Jason Charles und seine Kollegen das Floß steuern, machen das Flößer seit Jahrhunderten. Schon um 1500 landen jedes Jahr durchschnittlich 14.000 Festmeter Holz an den Floßanlegestellen Münchens.
 komm			„Kann ich mal probieren?“ - „Ja gerne, komm rein in mein Fitnessstudio!“ - „Alles klar.“
@@ -14,26 +13,20 @@ konnte			Das heißt also zwischen den beiden Bergen war sowas wie eine Rutsche, 
 kontrolliert			Zunächst gibt es nur eine Brücke über die Isar – bei Föhring. Die kontrolliert der Bischof Otto von Freising und kassiert dafür ordentlich Brücken- und Wegzölle. 
 Kranken			Damit können die Armen und Kranken im Spital ein ganzes Jahr lang zusätzlich einmal die Woche mit Essen versorgt werden. 
 Lage			Berühmt ist München für seine einzigartige Lage: umgeben von blau-türkisen Seen, schneebedeckten Bergen und den grünen Hügeln des bayerischen Voralpenlandes. 
-Laiben			Aber sie wollen etwas zurückgeben – und spenden deshalb an das Heilig-Geist-Spital am Viktualienmarkt. Die Summe entspricht einem Wert von 60 Schweinen oder 15.000 Laiben Brot. 
 landen			So wie Jason Charles und seine Kollegen das Floß steuern, machen das Flößer seit Jahrhunderten. Schon um 1500 landen jedes Jahr durchschnittlich 14.000 Festmeter Holz an den Floßanlegestellen Münchens.
 Landshut			Es legt fest, dass jede Salzlieferung zwischen den Alpen und Landshut die Isar nur bei München überqueren darf. 
-langfristig			Sie wird bewohnbar. Es sind die Kelten, die sich ab dem 3. Jahrhundert vor Christus als allererstes langfristig auf der Schotterebene ansiedeln. 
 längste			Der Höhepunkt der Strecke: Die längste Floßrutsche Europas. Sie ist 345 Meter lang und überwindet einen Höhenunterschied von 17 Metern. 
 lässt			lässt seine eigene Brücke flussabwärts bauen und gründet am 14. Juni 1158 „bei den Mönchen“ einen neuen Markt namens „Munichen“. 
 Laufe			aber dieser Mönch hat sich im Laufe der Zeit verändert. Aus dem Mönch wurde das Münchner Kindl.
-Laugengebäck			Und damit ist ganz klar. Nicht erst seit heute ist dieses wunderbare Laugengebäck hier der Inbegriff von Heimat in München.
 legt			Es legt fest, dass jede Salzlieferung zwischen den Alpen und Landshut die Isar nur bei München überqueren darf. 
 lerne			Ich gehe auf Zeitreise, treffe echte Münchnerinnen und Münchner, und lerne Orte und Bräuche kennen, die München einzigartig machen. Hier kommen drei historische Highlights über München.
 liegen			Die hölzernen Ruder liegen in reißfesten Schlaufen, so genannten „Wieden“. Seit den frühesten Flößertagen geflochten aus den Ästen von Schneeballweiden. 
 liegt			Der Ursprung des Brezenreiters liegt im Jahr 1318. Denn das Salz macht in München nicht nur Heinrich den Löwen reich. 
 Lizenz			1332 bekommt München vom Wittelsbacher Ludwig dem Bayern ein Privileg, das einer Lizenz zum Gelddrucken gleichkommt: Das Salzhandelsmonopol. 
 Loisach			Ich treffe die Wolfratshausener Isarflößer. Mit ihnen will ich über Loisach und Isar die Flusswege nach München befahren.
-losgemacht			Das ging echt wahnsinnig schnell. Mal kurz losgemacht, Ruder rumgerissen. Und schon sind wir auf dem Fluss. Und das geht extrem flott hier. 
-losstarten			„Wetter passt, oder?“ - „Das Wetter passt einwandfrei heut. Heute können wir richtig losstarten wieder.“
 Löwe			Aber Heinrich der Löwe, Herzog von Bayern und Sachsen, will selbst die Gewinne einstreichen, 
 Löwen			Das hier ist ein Pfennig aus der Zeit Heinrichs des Löwen. Aus dem 12. Jahrhundert. 
 Ludwig			1332 bekommt München vom Wittelsbacher Ludwig dem Bayern ein Privileg, das einer Lizenz zum Gelddrucken gleichkommt: Das Salzhandelsmonopol. 
-mächtigste			Besiegeln lässt er sich diese Gründung von Kaiser Friedrich I. Barbarossa – neben ihm der mächtigste Mann in Europa und übrigens auch sein Cousin. 
 Marienplatz			Am heutigen Marienplatz, im Zentrum der Stadt, trifft im 12. Jahrhundert die berühmte Salzstraße, die von Salzburg nach Augsburg führt, auf die Verbindung nach Sendling und Schwabing. 
 Meter			Seit Jahrhunderten entstehen die hölzernen Inseln in traditioneller Bauweise. 17 Bäume werden ein Floß. 18 Meter lang, 7 Meter breit, rund 20 Tonnen schwer. 
 Metern			Der Höhepunkt der Strecke: Die längste Floßrutsche Europas. Sie ist 345 Meter lang und überwindet einen Höhenunterschied von 17 Metern. 
@@ -42,7 +35,6 @@ Millionen			Die Stadt wächst - bis 2040, heißt es, werden hier 14 Prozent mehr
 Mix			Durch diesen Mix gibt es übrigens heute noch so viele Rothaarige in Bayern. Ein genetisches Erbe vor allem der Kelten. 
 Mönch			Und bei Mönch, da kommt er hier ins Spiel, das ist das Stadtwappen Münchens mit dem Mönch drauf, ein Mönch mit einer Kapuze, 
 Mönchen			lässt seine eigene Brücke flussabwärts bauen und gründet am 14. Juni 1158 „bei den Mönchen“ einen neuen Markt namens „Munichen“. 
-Mönchskopf			Das erste Stadtsiegel ist ein Mönchskopf mit Kapuze unterm Stadttor. Ihm folgt der Mönch mit Bibel und Segensgeste. 
 münchen			Was macht München so besonders? Ich meine, abgesehen davon, dass die Stadt älter ist als Berlin. Warum betrachten Menschen diese Stadt als ihre Heimat? 
 München			Was macht München so besonders? Ich meine, abgesehen davon, dass die Stadt älter ist als Berlin. Warum betrachten Menschen diese Stadt als ihre Heimat? 
 Münchens			Und bei Mönch, da kommt er hier ins Spiel, das ist das Stadtwappen Münchens mit dem Mönch drauf, ein Mönch mit einer Kapuze, 
@@ -62,12 +54,12 @@ nummer			Nummer 1: Ohne Salz, kein München! Die Stadt verdankt ihren Ursprung d
 nun			Warum ist diese Geschichte wichtig für München? Nun ja, die Gewinne durch Salz ermöglichen der Stadt erst ihren Aufstieg. 
 Ohne			Nummer 1: Ohne Salz, kein München! Die Stadt verdankt ihren Ursprung dem weißen Gold.   
 Oktoberfest			Zu München gibt es noch viel mehr Geschichte und Geschichten – etwa über die Entstehung von Schäfflertanz, Oktoberfest, barocken Prachtbauen und, und, und. Genau das macht München aus.
-ordentlich			Zunächst gibt es nur eine Brücke über die Isar – bei Föhring. Die kontrolliert der Bischof Otto von Freising und kassiert dafür ordentlich Brücken- und Wegzölle. 
 Orte			Ich gehe auf Zeitreise, treffe echte Münchnerinnen und Münchner, und lerne Orte und Bräuche kennen, die München einzigartig machen. Hier kommen drei historische Highlights über München.
 Orten			München, weit mehr als nur Fußball, Bier und Lederhosen. Es sind diese Geschichten von Menschen, Orten und Bräuchen, die der südlichsten Metropole Deutschlands stetig neues Leben einhauchen. 
 Otto			Zunächst gibt es nur eine Brücke über die Isar – bei Föhring. Die kontrolliert der Bischof Otto von Freising und kassiert dafür ordentlich Brücken- und Wegzölle. 
 passenderweise			Da ist auch ein Löwe drauf, passenderweise. Und bezahlt wurde mit so einem Pfennig auf dem Markt bei den Mönchen. 
 perfekte			In dieser Zeit in Eis und Schnee passiert das entscheidende Naturereignis, das für die perfekte Lage der Stadt München zwischen Bergen und Seen sorgen wird.
+
 Pfennig			Das hier ist ein Pfennig aus der Zeit Heinrichs des Löwen. Aus dem 12. Jahrhundert. 
 Prachtbauen			Zu München gibt es noch viel mehr Geschichte und Geschichten – etwa über die Entstehung von Schäfflertanz, Oktoberfest, barocken Prachtbauen und, und, und. Genau das macht München aus.
 Privileg			1332 bekommt München vom Wittelsbacher Ludwig dem Bayern ein Privileg, das einer Lizenz zum Gelddrucken gleichkommt: Das Salzhandelsmonopol. 
